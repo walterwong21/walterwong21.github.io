@@ -1,0 +1,100 @@
+body{
+  background-color: rgb(230,230,230);
+}
+
+
+.title-container{
+  height: 60vh;
+
+  background-color: rgb(230,230,230);
+}
+
+.title-hello{
+  font-size: 10rem;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.title-image{
+  height: 10vw;
+  width: 10vw;
+
+}
+
+.title-name{
+  font-size: 4rem;
+  font-weight: 800;
+  font-family: 'Noto Sans JP', sans-serif;
+
+  position: relative;
+  top: -2.5rem;
+
+  color: rgb(230,230,230);
+  background-color: #00FFFF;
+}
+
+.title-tag{
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Noto Sans JP', sans-serif;
+
+  position: relative;
+  top:-3rem;
+  padding-bottom: 2rem
+}
+
+.about-me-container{
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #ad8c52;
+}
+
+.about-me-container1{
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #e31cc2;
+}
+
+.about-me-image{
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px black;
+
+}
+
+.about-me-text{
+  font-size: 1.2rem;
+  font-family: 'Noto Sans JP', sans-serif;
+
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+
+  color: rgb(230,230,230);
+}
+
+.contact-me-container{
+  margin-top: 15vh;
+  margin-bottom: 15vh;
+
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+.contact-me-icon{
+  width: 6rem;
+  height:6rem;
+}
